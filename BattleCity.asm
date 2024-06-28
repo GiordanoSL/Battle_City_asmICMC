@@ -114,6 +114,38 @@ tijolosLinha28: string "                                       "
 tijolosLinha29: string "                                       "
 
 
+tijolosLinhaStatic0:  string "                                       "
+tijolosLinhaStatic1:  string "                                       "
+tijolosLinhaStatic2:  string "                 ##  ##                "
+tijolosLinhaStatic3:  string "                 ##  ##                "
+tijolosLinhaStatic4:  string "      ###  ###   ######   ###  ###     "
+tijolosLinhaStatic5:  string "      ###  ###   ######   ###  ###     "
+tijolosLinhaStatic6:  string "      ###  ###            ###  ###     "
+tijolosLinhaStatic7:  string "      ###  ###  ###  ###  ###  ###     "
+tijolosLinhaStatic8:  string "      ###  ###  ########  ###  ###     "
+tijolosLinhaStatic9:  string "           ###  ########  ###          "
+tijolosLinhaStatic10: string "    ###         ########         ###   "
+tijolosLinhaStatic11: string "    ###         ###  ###         ###   "
+tijolosLinhaStatic12: string "         #####            #####        "
+tijolosLinhaStatic13: string "         #####            #####        "
+tijolosLinhaStatic14: string "                ########               "
+tijolosLinhaStatic15: string "                ########               "
+tijolosLinhaStatic16: string "         #####            #####        "
+tijolosLinhaStatic17: string "         #####            #####        "
+tijolosLinhaStatic18: string "    ###         ###  ###         ###   "
+tijolosLinhaStatic19: string "    ###         ########         ###   "
+tijolosLinhaStatic20: string "           ###  ########  ###          "
+tijolosLinhaStatic21: string "      ###  ###  ########  ###  ###     "
+tijolosLinhaStatic22: string "      ###  ###  ###  ###  ###  ###     "
+tijolosLinhaStatic23: string "      ###  ###            ###  ###     "
+tijolosLinhaStatic24: string "      ###  ###   ######   ###  ###     "
+tijolosLinhaStatic25: string "      ###  ###   ######   ###  ###     "
+tijolosLinhaStatic26: string "                 ##  ##                "
+tijolosLinhaStatic27: string "                 ##  ##                "
+tijolosLinhaStatic28: string "                                       "
+tijolosLinhaStatic29: string "                                       "
+
+
 battleCityLinha0:  string "                                       "
 battleCityLinha1:  string "                                       "
 battleCityLinha2:  string "                                       "
@@ -178,15 +210,88 @@ telaInicialLinha28: string "                                       "
 telaInicialLinha29: string "                                       "
 
 
+jogador2GanhouLinha0:  string "                                       "
+jogador2GanhouLinha1:  string "                                       "
+jogador2GanhouLinha2:  string "                                       "
+jogador2GanhouLinha3:  string "                                       "
+jogador2GanhouLinha4:  string "  ###  #      #  #   # #### ###   ###  "
+jogador2GanhouLinha5:  string "  #  # #     # #  # #  #    #  #     # "
+jogador2GanhouLinha6:  string "  ###  #    #   #  #   ###  ###    ##  "
+jogador2GanhouLinha7:  string "  #    #    #####  #   #    # #   #    "
+jogador2GanhouLinha8:  string "  #    #### #   #  #   #### #  #  #### "
+jogador2GanhouLinha9:  string "                                       "
+jogador2GanhouLinha10: string "                                       "
+jogador2GanhouLinha11: string "      #     # ### #  #  ###  # #       "
+jogador2GanhouLinha12: string "      #     #  #  ## # #     # #       "
+jogador2GanhouLinha13: string "       # # #   #  # ##  ##   # #       "
+jogador2GanhouLinha14: string "       # # #   #  #  #    #            "
+jogador2GanhouLinha15: string "        # #   ### #  # ###   # #       "
+jogador2GanhouLinha16: string "                                       "
+jogador2GanhouLinha17: string "                                       "
+jogador2GanhouLinha18: string "                                       "
+jogador2GanhouLinha19: string "                                       "
+jogador2GanhouLinha20: string "                                       "
+jogador2GanhouLinha21: string "                                       "
+jogador2GanhouLinha22: string "       PRESS [SPACE] TO RESTART        "
+jogador2GanhouLinha23: string "                                       "
+jogador2GanhouLinha24: string "                                       "
+jogador2GanhouLinha25: string "                                       "
+jogador2GanhouLinha26: string "                                       "
+jogador2GanhouLinha27: string "                                       "
+jogador2GanhouLinha28: string "                                       "
+jogador2GanhouLinha29: string "                                       "
+
+
+jogador1GanhouLinha0:  string "                                       "
+jogador1GanhouLinha1:  string "                                       "
+jogador1GanhouLinha2:  string "                                       "
+jogador1GanhouLinha3:  string "                                       "
+jogador1GanhouLinha4:  string "  ###  #      #   #   # #### ###    #  "
+jogador1GanhouLinha5:  string "  #  # #     # #   # #  #    #  #  ##  "
+jogador1GanhouLinha6:  string "  ###  #    #   #   #   ###  ###    #  "
+jogador1GanhouLinha7:  string "  #    #    #####   #   #    # #    #  "
+jogador1GanhouLinha8:  string "  #    #### #   #   #   #### #  #  ### "
+jogador1GanhouLinha9:  string "                                       "
+jogador1GanhouLinha10: string "                                       "
+jogador1GanhouLinha11: string "      #     # ### #  #  ###  # #       "
+jogador1GanhouLinha12: string "      #     #  #  ## # #     # #       "
+jogador1GanhouLinha13: string "       # # #   #  # ##  ##   # #       "
+jogador1GanhouLinha14: string "       # # #   #  #  #    #            "
+jogador1GanhouLinha15: string "        # #   ### #  # ###   # #       "
+jogador1GanhouLinha16: string "                                       "
+jogador1GanhouLinha17: string "                                       "
+jogador1GanhouLinha18: string "                                       "
+jogador1GanhouLinha19: string "                                       "
+jogador1GanhouLinha20: string "                                       "
+jogador1GanhouLinha21: string "                                       "
+jogador1GanhouLinha22: string "       PRESS [SPACE] TO RESTART        "
+jogador1GanhouLinha23: string "                                       "
+jogador1GanhouLinha24: string "                                       "
+jogador1GanhouLinha25: string "                                       "
+jogador1GanhouLinha26: string "                                       "
+jogador1GanhouLinha27: string "                                       "
+jogador1GanhouLinha28: string "                                       "
+jogador1GanhouLinha29: string "                                       "
+
+
 
 ;********************************************************;
 ;                         CODIGO                         ;
 ;********************************************************;
 
 main:
-	; Spawna os tanques
-	call spawnaTanque1
-	call spawnaTanque2
+	; Apaga todos os caracteres da tela	
+	call ApagaTela
+	
+	call ImprimeBattleCity
+	
+	call ImprimeTelaInicial
+	
+	loadn r2, #' '
+Loop_inicial:
+	inchar r1
+	cmp r2, r1
+	jne Loop_inicial
 	
 	; Apaga todos os caracteres da tela
 	call ApagaTela
@@ -197,13 +302,14 @@ main:
 	; Imprime os tijolos
 	call ImprimeTijolos
 	
+	; Spawna os tanques
+	call spawnaTanque1
+	call spawnaTanque2
+	
 	; Loop 1 do jogo
 	loadn r0, #0 ; Contador de loops, c = 0
 	Loop:
-	
-		loadn r1, #5 	; Variavel para verificar se o contador de loops eh multiplo de 5
-		mod r1, r0, r1 	; c % 10
-		cz MoveTanque	; Chama rotina de movimento do tanque se c % 5 == 0
+		call MoveTanque	; Chama rotina de movimento do tanque se c % 5 == 0
 	
 		call AtualizaTiro
 	
@@ -362,10 +468,10 @@ atualiza:
 
 	; r0 = posicao do tanque
 	loadi r0, r7
-	loadn r1, #98
+	loadn r1, #99
 	cmp r0, r1
 	jeq jogador2Perdeu
-	loadn r1, #1058
+	loadn r1, #1059
 	cmp r0, r1
 	jeq jogador1Perdeu
 	
@@ -384,6 +490,7 @@ atualiza:
 	loadi r2, r1 	; r2 recebe o caractere apontado pelo ponteiro de caracteres (r1)
 	add r2, r2, r3 	; Adiciona a cor
 	outchar r2, r0	; Imprime o primeiro caractere
+	call acertou_aguia
 	
 	; -> Segundo caractere
 	inc r0 			; r0++ ---> posicao de impressao vai para a direita
@@ -391,6 +498,7 @@ atualiza:
 	loadi r2, r1 	; r2 recebe o caractere apontado pelo ponteiro de caracteres (r1)
 	add r2, r2, r3 	; Adiciona a cor
 	outchar r2, r0	; Imprime o segundo caractere
+	call acertou_aguia
 	
 	; -> Terceiro caractere
 	loadn r2, #39 	; r2 = auxiliar para descer de linha (40 - 1 porque ja esta no caractere a direita da posicao do tanque)
@@ -399,6 +507,7 @@ atualiza:
 	loadi r2, r1 	; r2 recebe o caractere apontado pelo ponteiro de caracteres (r1)
 	add r2, r2, r3 	; Adiciona a cor
 	outchar r2, r0	; Imprime o terceiro caractere
+	call acertou_aguia
 	
 	; -> Quarto caractere
 	inc r0 			; r0++ ---> posicao de impressao vai para a direita
@@ -406,9 +515,44 @@ atualiza:
 	loadi r2, r1 	; r2 recebe o caractere apontado pelo ponteiro de caracteres (r1)
 	add r2, r2, r3 	; Adiciona a cor
 	outchar r2, r0	; Imprime o quarto caractere
+	call acertou_aguia
 	
 	
 	jmp fim_atualizaTanque
+	
+; <- r0 = posicao q vai comparar com a aguia
+acertou_aguia:
+	push r0
+	push r1
+	
+	loadn r1, #99
+	cmp r0, r1
+	jeq jogador2Perdeu
+	loadn r1, #100
+	cmp r0, r1
+	jeq jogador2Perdeu
+	loadn r1, #139
+	cmp r0, r1
+	jeq jogador2Perdeu
+	loadn r1, #140
+	cmp r0, r1
+	jeq jogador2Perdeu
+	loadn r1, #1059
+	cmp r0, r1
+	jeq jogador1Perdeu
+	loadn r1, #1060
+	cmp r0, r1
+	jeq jogador1Perdeu
+	loadn r1, #1099
+	cmp r0, r1
+	jeq jogador1Perdeu
+	loadn r1, #1100
+	cmp r0, r1
+	jeq jogador1Perdeu
+	
+	pop r1
+	pop r0
+	rts
 ;					  FIM ATUALIZA TANQUE
 ;========================================================;
 
@@ -547,7 +691,7 @@ incrementaVida1:
 	load r3, vidaTanque1
 	inc r3
 	store vidaTanque1, r3
-	loadn r2, #20
+	loadn r2, #10
 	cmp r3, r2
 	ceg spawnaTanque1
 	rts	
@@ -555,7 +699,7 @@ incrementaVida2:
 	load r3, vidaTanque2
 	inc r3
 	store vidaTanque2, r3
-	loadn r2, #20
+	loadn r2, #10
 	cmp r3, r2
 	ceg spawnaTanque2
 	rts
@@ -912,11 +1056,15 @@ ImprimeTiro:
 	add r3, r3, r0		; r3 = ponteiro para o primeiro caractere da direcao certa
 	loadi r0, r3 		; r0 = primeiro caractere da direcao certa
 	outchar r0, r1 		; imprime o primeiro caractere
+	mov r0, r1
+	call acertou_aguia
 	loadn r2, #40		; r2 = auxiliar para descer a linha
 	add r1, r1, r2 		; r1 += 40 ---> posicao de impressao desce uma linha
 	inc r3				; r3 = ponteiro para o segundo caractere da direcao certa
 	loadi r0, r3 		; r0 = segundo caractere da direcao certa
 	outchar r0, r1		; imprime o segundo caractere
+	mov r0, r1
+	call acertou_aguia
 	jmp fim_imprimeTiro
 	
 	; -> Apaga tiro na vertical
@@ -925,10 +1073,14 @@ imprimeTiroHorizontal:
 	add r3, r3, r0		; r3 = ponteiro para o primeiro caractere da direcao certa
 	loadi r0, r3 		; r0 = primeiro caractere da direcao certa
 	outchar r0, r1 		; imprime o primeiro caractere
+	mov r0, r1
+	call acertou_aguia
 	inc r1  			; r1 ++ 40 ---> posicao de impressao vai um para a direita
 	inc r3				; r3 = ponteiro para o segundo caractere da direcao certa
 	loadi r0, r3 		; r0 = segundo caractere da direcao certa
 	outchar r0, r1		; imprime o segundo caractere
+	mov r0, r1
+	call acertou_aguia
 	
 fim_imprimeTiro:
 	; desempilha registradores
@@ -1252,6 +1404,37 @@ fim_moveTiroRIGHT_LEFT:
 
 
 jogador1Perdeu:
+	loadn r1, #0
+	loadn r2, #20
+loop_jogador1perdeu:
+	call Delay
+	inc r1
+	cmp r1, r2
+	jle loop_jogador1perdeu
+	call ApagaTela
+	call ImprimeJogador2Ganhou
+	call jogar_novamente
+	jmp main
+jogador2Perdeu:
+	loadn r1, #0
+	loadn r2, #20
+loop_jogador2perdeu:
+	call Delay
+	inc r1
+	cmp r1, r2
+	jle loop_jogador2perdeu
+	call ApagaTela
+	call ImprimeJogador1Ganhou
+	call jogar_novamente
+	jmp main
+	
+jogar_novamente:
+	loadn r2, #' '
+loop_jogarNovamente:
+	inchar r1
+	cmp r2, r1
+	jne loop_jogarNovamente
+	rts
 	
 ;========================================================;
 ;                     IMPRIME MARGEM      
@@ -1281,7 +1464,27 @@ ImprimeTijolos:
 	push r2
 	
 	; Impressao dos tijolos
-	loadn r1, #tijolosLinha0
+	loadn r1, #tijolosLinhaStatic0
+	loadn r2, #256 ; cor = Marrom
+	call ImprimeTelaTijolos
+	
+	; Desempilha registradores
+	pop r2
+	pop r1
+	
+	rts
+;                   FIM IMPRIME TIJOLOS      
+;========================================================;
+
+;========================================================;
+;                     IMPRIME BATTLE CITY      
+ImprimeBattleCity:
+	; Empilha registradores para preservar seus valores
+	push r1
+	push r2
+	
+	; Impressao dos tijolos
+	loadn r1, #battleCityLinha0
 	loadn r2, #256 ; cor = Marrom
 	call ImprimeTela
 	
@@ -1290,7 +1493,64 @@ ImprimeTijolos:
 	pop r1
 	
 	rts
-;                   FIM IMPRIME TIJOLOS      
+;                   FIM IMPRIME BATTLE CITY      
+;========================================================;
+;========================================================;
+;                     IMPRIME TELA INICIAL      
+ImprimeTelaInicial:
+	; Empilha registradores para preservar seus valores
+	push r1
+	push r2
+	
+	; Impressao dos tijolos
+	loadn r1, #telaInicialLinha0
+	loadn r2, #0 ; cor = BRANCO
+	call ImprimeTela
+	
+	; Desempilha registradores
+	pop r2
+	pop r1
+	
+	rts
+;                   FIM IMPRIME TELA INICIAL       
+;========================================================;
+;========================================================;
+;                     IMPRIME TELA INICIAL      
+ImprimeJogador2Ganhou:
+	; Empilha registradores para preservar seus valores
+	push r1
+	push r2
+	
+	; Impressao dos tijolos
+	loadn r1, #jogador2GanhouLinha0
+	loadn r2, #0 ; cor = BRANCO
+	call ImprimeTela
+	
+	; Desempilha registradores
+	pop r2
+	pop r1
+	
+	rts
+;                   FIM IMPRIME TELA INICIAL       
+;========================================================;
+;========================================================;
+;                     IMPRIME TELA INICIAL      
+ImprimeJogador1Ganhou:
+	; Empilha registradores para preservar seus valores
+	push r1
+	push r2
+	
+	; Impressao dos tijolos
+	loadn r1, #jogador1GanhouLinha0
+	loadn r2, #0 ; cor = BRANCO
+	call ImprimeTela
+	
+	; Desempilha registradores
+	pop r2
+	pop r1
+	
+	rts
+;                   FIM IMPRIME TELA INICIAL       
 ;========================================================;
 
 	
@@ -1329,6 +1589,44 @@ loop_imprimeTela:
 ;                   FIM IMPRIME TELA                   
 ;========================================================;
 	
+;========================================================;
+;                     IMPRIME TELA      
+;
+; <- r1 = ponteiro para a primeira linha da tela 
+; <- r2 = cor da tela           
+ImprimeTelaTijolos:
+	; Empilha registradores para proteger seus valores
+	push r0
+	push r1
+	push r2
+	push r3
+	push r4
+	push r7
+
+	loadn r0, #0  	; posicao inicial tem que ser o comeco da tela!
+	loadn r3, #40  	; Incremento da posicao da tela!
+	loadn r4, #1200 ; Limite da tela!
+	loadn r7, #tijolosLinha0
+	
+	
+loop_imprimeTelaTijolos:
+	call ImprimeLinhaTijolos
+	add r0, r0, r3  	; incrementaposicao para a segunda linha na tela -->  r0 = r0 + 40
+	add r1, r1, r3  	; incrementa o ponteiro para o comeco da proxima linha na memoria r1 = r1 + 40
+	add r7, r7, r3  	; incrementa o ponteiro para o comeco da proxima linha na memoria r1 = r1 + 40
+	cmp r0, r4			; Compara r0 com 1200
+	jne loop_imprimeTelaTijolos	; Enquanto r0 < 1200
+	
+	; Desempilha registradores
+	pop r7
+	pop r4
+	pop r3
+	pop r2
+	pop r1
+	pop r0
+	rts
+;                   FIM IMPRIME TELA                   
+;========================================================;
 	
 ;========================================================;
 ;			    IMPRIME LINHA SEM ESPACO           
@@ -1382,6 +1680,74 @@ continua_imprimeLinha:
 	jel loop_imprimeLinha ; soh volta no loop se for menor ou igual a 38
 	
 	; Desempliha registradores
+	pop r6
+	pop r5
+	pop r4
+	pop r3
+	pop r2
+	pop r1
+	pop r0
+	rts
+;	          FIM IMPRIME String SEM ESPACO              
+;========================================================;
+
+;========================================================;
+;			    IMPRIME LINHA SEM ESPACO           
+;     
+; Imprime uma string de 39 caracteres e repete o último caractere
+;
+; <- r0 = Posicao de inicio da impressao
+; <- r1 = Endereco da string que sera impressa
+; <- r2 = Cor da impressao
+; <- r7 = Linha dos tijolos nao static
+ImprimeLinhaTijolos:
+	; Empilha registradores para proteger seus valores
+	push r0
+	push r1
+	push r2
+	push r3
+	push r4
+	push r5
+	push r6
+	push r7
+	
+	; Carrega 38 em r4 para condicao de parada
+	loadn r4, #38
+	; r6 = contador
+	loadn r5, #0
+	; Carrega ' ' em r6 para saber se imprime o caractere ou nao
+	loadn r6, #' '
+	
+loop_imprimeLinhaTijolos:
+
+	loadi r3, r1 ; carrega em r3 o valor do caractere apontado por r1
+	storei r7, r3
+	cmp r3, r6	 ; compara r3 com ' ' se for igual -> não imprime o caractere
+	jeq continua_imprimeLinhaTijolos
+	add r3, r2, r3 ; adiciona a cor da linha
+	outchar r3, r0 ; imprime o caractere apontado por r1 na posição r0 com a cor r2
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+continua_imprimeLinhaTijolos:
+	; anda com a posicao da impressao
+	inc r0
+	
+	cmp r5, r4 ; compara o contador com 38
+	inc r5 ; contador ++
+	
+	jeq loop_imprimeLinhaTijolos ; se for o caractere 39 (contador == 38), volta no loop sem andar no vetor
+	
+	; se nao for o caractere 39, anda no vetor
+	inc r1
+	inc r7
+	
+	cmp r5, r4 ; compara o contador com 38
+	jel loop_imprimeLinhaTijolos ; soh volta no loop se for menor ou igual a 38
+	
+	; Desempliha registradores
+	pop r7
 	pop r6
 	pop r5
 	pop r4
