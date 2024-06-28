@@ -124,16 +124,16 @@ tijolosLinhaStatic6:  string "      ###  ###            ###  ###     "
 tijolosLinhaStatic7:  string "      ###  ###  ###  ###  ###  ###     "
 tijolosLinhaStatic8:  string "      ###  ###  ########  ###  ###     "
 tijolosLinhaStatic9:  string "           ###  ########  ###          "
-tijolosLinhaStatic10: string "    ###         ########         ###   "
-tijolosLinhaStatic11: string "    ###         ###  ###         ###   "
-tijolosLinhaStatic12: string "         #####            #####        "
-tijolosLinhaStatic13: string "         #####            #####        "
-tijolosLinhaStatic14: string "                ########               "
-tijolosLinhaStatic15: string "                ########               "
-tijolosLinhaStatic16: string "         #####            #####        "
-tijolosLinhaStatic17: string "         #####            #####        "
-tijolosLinhaStatic18: string "    ###         ###  ###         ###   "
-tijolosLinhaStatic19: string "    ###         ########         ###   "
+tijolosLinhaStatic10: string "    ###                          ###   "
+tijolosLinhaStatic11: string "    ###                          ###   "
+tijolosLinhaStatic12: string "         #########    #########        "
+tijolosLinhaStatic13: string "         #########    #########        "
+tijolosLinhaStatic14: string "              ####    ####             "
+tijolosLinhaStatic15: string "              ####    ####             "
+tijolosLinhaStatic16: string "         #########    #########        "
+tijolosLinhaStatic17: string "         #########    #########        "
+tijolosLinhaStatic18: string "    ###                          ###   "
+tijolosLinhaStatic19: string "    ###                          ###   "
 tijolosLinhaStatic20: string "           ###  ########  ###          "
 tijolosLinhaStatic21: string "      ###  ###  ########  ###  ###     "
 tijolosLinhaStatic22: string "      ###  ###  ###  ###  ###  ###     "
@@ -399,12 +399,40 @@ ApagaTanque:
 	
 	; Apaga os quatro caracteres do tanque
 	outchar r1, r0 	; Apaga o primeiro caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	inc r0 			; Vai para o caractere a direita
 	outchar r1, r0 	; Apaga o segundo caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	add r0, r0, r2 	; Vai para a proxima linha
 	outchar r1, r0	; Apaga o terceiro caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	inc r0 			; Vai para o caractere a direita
 	outchar r1, r0	; Apaga o quarto caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	
 	; Desempilha registradores
 	pop r6
@@ -490,6 +518,13 @@ atualiza:
 	loadi r2, r1 	; r2 recebe o caractere apontado pelo ponteiro de caracteres (r1)
 	add r2, r2, r3 	; Adiciona a cor
 	outchar r2, r0	; Imprime o primeiro caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	call acertou_aguia
 	
 	; -> Segundo caractere
@@ -498,6 +533,13 @@ atualiza:
 	loadi r2, r1 	; r2 recebe o caractere apontado pelo ponteiro de caracteres (r1)
 	add r2, r2, r3 	; Adiciona a cor
 	outchar r2, r0	; Imprime o segundo caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	call acertou_aguia
 	
 	; -> Terceiro caractere
@@ -507,6 +549,13 @@ atualiza:
 	loadi r2, r1 	; r2 recebe o caractere apontado pelo ponteiro de caracteres (r1)
 	add r2, r2, r3 	; Adiciona a cor
 	outchar r2, r0	; Imprime o terceiro caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	call acertou_aguia
 	
 	; -> Quarto caractere
@@ -515,6 +564,13 @@ atualiza:
 	loadi r2, r1 	; r2 recebe o caractere apontado pelo ponteiro de caracteres (r1)
 	add r2, r2, r3 	; Adiciona a cor
 	outchar r2, r0	; Imprime o quarto caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	call acertou_aguia
 	
 	
@@ -982,6 +1038,13 @@ ApagaTiro:
 	; r1 JA TEM A POSICAO DO TIRO NA TELA
 	loadn r0, #' ' 		; r0 = ' ' para apagar o tiro
 	outchar r0, r1 		; Apaga o primeiro caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	
 	loadn r3, #tijolosLinha0
 	add r3, r3, r1
@@ -992,6 +1055,13 @@ ApagaTiro:
 	loadn r2, #40		; r2 = auxiliar para descer a linha
 	add r1, r1, r2 		; r1 += 40 ---> posicao de impressao desce uma linha
 	outchar r0, r1		; Apaga o segundo caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	
 	add r3, r3, r2
 	loadi r4, r3
@@ -1005,6 +1075,13 @@ apagaTiroHorizontal:
 	; r1 JA TEM A POSICAO DO TIRO NA TELA
 	loadn r0, #' ' 		; r0 = ' ' para apagar o tiro
 	outchar r0, r1 		; Apaga o primeiro caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	
 	loadn r3, #tijolosLinha0
 	add r3, r3, r1
@@ -1014,6 +1091,13 @@ apagaTiroHorizontal:
 	
 	inc r1				; r1++ ---> posicao de impressao vai para a direita
 	outchar r0, r1		; Apaga o segundo caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	
 	inc r3
 	loadi r4, r3
@@ -1056,6 +1140,13 @@ ImprimeTiro:
 	add r3, r3, r0		; r3 = ponteiro para o primeiro caractere da direcao certa
 	loadi r0, r3 		; r0 = primeiro caractere da direcao certa
 	outchar r0, r1 		; imprime o primeiro caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	mov r0, r1
 	call acertou_aguia
 	loadn r2, #40		; r2 = auxiliar para descer a linha
@@ -1063,6 +1154,13 @@ ImprimeTiro:
 	inc r3				; r3 = ponteiro para o segundo caractere da direcao certa
 	loadi r0, r3 		; r0 = segundo caractere da direcao certa
 	outchar r0, r1		; imprime o segundo caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	mov r0, r1
 	call acertou_aguia
 	jmp fim_imprimeTiro
@@ -1073,12 +1171,26 @@ imprimeTiroHorizontal:
 	add r3, r3, r0		; r3 = ponteiro para o primeiro caractere da direcao certa
 	loadi r0, r3 		; r0 = primeiro caractere da direcao certa
 	outchar r0, r1 		; imprime o primeiro caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	mov r0, r1
 	call acertou_aguia
 	inc r1  			; r1 ++ 40 ---> posicao de impressao vai um para a direita
 	inc r3				; r3 = ponteiro para o segundo caractere da direcao certa
 	loadi r0, r3 		; r0 = segundo caractere da direcao certa
 	outchar r0, r1		; imprime o segundo caractere
+	; nops para nao bugar a impressao (impressoes sucessivas levam a erros na impressao)
+	nop
+	nop
+	nop
+	nop
+	nop
+	nop
 	mov r0, r1
 	call acertou_aguia
 	
@@ -1664,6 +1776,9 @@ loop_imprimeLinha:
 	nop
 	nop
 	nop
+	nop
+	nop
+	nop
 continua_imprimeLinha:
 	; anda com a posicao da impressao
 	inc r0
@@ -1730,6 +1845,9 @@ loop_imprimeLinhaTijolos:
 	nop
 	nop
 	nop
+	nop
+	nop
+	nop
 continua_imprimeLinhaTijolos:
 	; anda com a posicao da impressao
 	inc r0
@@ -1788,7 +1906,7 @@ Delay:
 	
 	loadn r0, #60
 loop_delay1:
-	loadn r1, #3000
+	loadn r1, #300
 loop_delay2:
 	dec r1
 	jnz loop_delay2
