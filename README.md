@@ -54,6 +54,11 @@ do processador em VHDL.
 
   E aí, pronto para a batalha? Boa sorte e que vença o melhor!
 
+## Como Jogar?
+<div align="justify">
+  Caso você não tenha uma placa FPGA, você pode baixar a pasta "Simulador.zip" para poder rodar o programa no seu próprio computador. Nessa pasta já estão todos os arquivos desse repositório anexados para você não ter dificuldades no processo, assim, baixe a pasta, descompacte na área de trabalho, abra \Simulador\Sublime Text 3\, clique duas vezes no arquivo "sublime_text". Nesse momento irá abrir uma janela de atualização (Não atualize), clique no canto superior esquerdo em "File", clique em "Open File", volte para a pasta "Simulador" e clique duas vezes no arquivo "BattleCity.asm", nisso o arquivo já estará aberto e basta você apertar a tecla 'f7' do seu teclado para rodar e a tecla 'home' para iniciar o jogo.  
+</div>
+
 ## Autores
 * Bruno Basckeira Chinaglia
 * Giordano Santorum Lorenzetto
