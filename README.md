@@ -59,6 +59,10 @@ do processador em VHDL.
   Caso você não tenha uma placa FPGA, você pode baixar a pasta "Simulador.zip" para poder rodar o programa no seu próprio computador. Nessa pasta já estão todos os arquivos desse repositório anexados para você não ter dificuldades no processo, assim, baixe a pasta, descompacte na área de trabalho, abra \Simulador\Sublime Text 3\, clique duas vezes no arquivo "sublime_text". Nesse momento irá abrir uma janela de atualização (Não atualize), clique no canto superior esquerdo em "File", clique em "Open File", volte para a pasta "Simulador" e clique duas vezes no arquivo "BattleCity.asm", nisso o arquivo já estará aberto e basta você apertar a tecla 'f7' do seu teclado para rodar e a tecla 'home' para iniciar o jogo.  
 </div>
 
+## Vídeo de demonstração
+
+https://github.com/GiordanoSL/Battle_City_asmICMC/assets/89356201/3d950c0e-d76a-4c5e-a611-2299a9e8b796
+
 ## Autores
 * Bruno Basckeira Chinaglia
 * Giordano Santorum Lorenzetto
